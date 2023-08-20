@@ -3,16 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bubble
+  - RestrictedArea
+  - Rock
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Rocks
   - Water
   - UI
-  - 
-  - 
+  - bubble
+  - laser
   - 
   - 
   - 
